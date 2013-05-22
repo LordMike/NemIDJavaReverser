@@ -44,7 +44,7 @@ The main applet is a bootloader, and can be downloaded from here the page you ju
 Download that applet, and put it into the "NemID" folder in the repository.
 
 * **Plugins**
-Navigate to the ".oces2" folder in your home directory. For linux this will be "~/.oces2", in windows it will be "C:\Users\[name]\.oces2". In that folder, theres some subfolders, "danid" and under that: "plugins". In "plugins", copy all the .jar files to the "NemID" folder in the repository.
+Navigate to the ".oces2" folder in your home directory. For linux this will be "~/.oces2", in windows it will be "C:\Users\\[name]\\.oces2". In that folder, theres some subfolders, "danid" and under that: "plugins". In "plugins", copy all the .jar files to the "NemID" folder in the repository.
 
 **3. Disassemble**
 I've prepared a batch script which will run Krakatau on all the Jar files and output the results to the same "disassembled" folder (You will need a python setup for this to work). In linux, you'll do pretty much the same, just in bash or similar.
